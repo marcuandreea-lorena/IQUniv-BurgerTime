@@ -1,0 +1,12 @@
+div{  
+    /* width: 200px; */
+    margin: 0px;
+    height:30px;
+    background: linear-gradient(#f08e4a, #e27b36);
+    border-top-right-radius:5px;
+    border-top-left-radius:5px;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+    box-shadow: inset -15px 0 #c15711}
+
+/* p{ margin: 0px;} */

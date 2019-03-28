@@ -1,0 +1,15 @@
+div{
+    /* width: 200px; */
+    height:80px;
+  /* background-color:peru; */
+  /* border-top-right-radius:80px;
+  border-top-left-radius:80px;
+  border-bottom-right-radius:5px;
+  border-bottom-left-radius:5px; */
+  border-radius: 50% 50% 0 0;
+  box-shadow: inset -15px 0 #c15711;
+  margin: 0px;
+  background: linear-gradient(#bc581e, #e27b36);
+  /* text-align: center; */
+  
+}
